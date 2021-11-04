@@ -10,6 +10,8 @@
 
 Olá, me chamo **Alex**, sou de Teresina - Piauí, Brasil e atualmente sou **Deselvolvedor web Full Stack em formação na Trybe**🚀 e também sou graduando em Geoprocessamento no **IFPI**. 
 
+<br />
+
 **Meus interesses pessoais:**
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
@@ -21,6 +23,8 @@ Olá, me chamo **Alex**, sou de Teresina - Piauí, Brasil e atualmente sou **Des
 - 💬 Vamos conversar? Pode ser sobre qualquer assunto;
 - 📫 Por favor, envie um email para **alexsmith7192@gmail.com** para me encontrar.
 
+<br />
+<br />
 <br />
 <br />
 

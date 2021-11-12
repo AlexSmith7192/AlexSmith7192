@@ -12,16 +12,16 @@ Olá, me chamo **Alex**, sou de Teresina - Piauí, Brasil e atualmente sou **Des
 
 <br />
 
-**Meus interesses pessoais:**
+**Interesses pessoais:**
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
-- 👨🏽‍💻 Estou estudando backend com **Node.js**, **Express**, **MongoDB**;
-- 🌱 Estou aprendendo como fazer **APIs**; 
-- 🤔 Meus hobbies são agriculta e Geoprocessamento;
-- 💼 Estou buscando conhecimentos para evoluir na minha carreira de desenvolvedor;
+- 👨🏽‍💻 Estudo backend com **Node.js**, **Express**, **MongoDB**;
+- 💻 Estou aprendendo como fazer APIs;
+- 🌱 Meus hobbies são agriculta e Geoprocessamento;
+- 💼 Em busca de novos conhecimentos para evoluir na minha carreira como desenvolvedor;
 - 💬 Vamos conversar? Pode ser sobre qualquer assunto;
-- 📫 Por favor, envie um email para **alexsmith7192@gmail.com** para me encontrar.
+- 📫 **alexsmith7192@gmail.com**;
 
 <br />
 <br />

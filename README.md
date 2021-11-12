@@ -27,6 +27,7 @@ Olá, me chamo **Alex**, sou de Teresina - Piauí, Brasil e atualmente sou **Des
 <br />
 <br />
 <br />
+<br />
 
 **Linguagens e ferramentas:**  
 

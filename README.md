@@ -8,7 +8,7 @@
 <br />
 <br />
 
-Olá, me chamo **Alex**, sou de Teresina - Piauí, Brasil e atualmente sou **Deselvolvedor web Full Stack em formação na Trybe**🚀 e também sou graduando em Geoprocessamento no **IFPI**. 
+Olá, me chamo **Alex**, sou de Teresina - Piauí, Brasil e atualmente sou **Deselvolvedor web Full Stack em formação na Trybe**🚀 e também sou graduando em Geoprocessamento no **IFPI** (Instituto Federal do Piauí). 
 
 <br />
 

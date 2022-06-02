@@ -8,17 +8,17 @@
 <br />
 <br />
 
-Olá, me chamo **Alex**, sou de Teresina - Piauí, Brasil e atualmente sou **Deselvolvedor web Full Stack em formação na Trybe**🚀 e também sou graduando em Geoprocessamento no **IFPI** (Instituto Federal do Piauí). 
+Olá, me chamo **Alex**, sou de Teresina - Piauí, Brasil e atualmente sou **Deselvolvedor web Full Stack formado na Trybe**🚀 e também sou graduando em Geoprocessamento no **IFPI** (Instituto Federal do Piauí).
 
 <br />
 
 **Interesses pessoais:**
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="350px" />
 
-- 👨🏽‍💻 Estudo backend com **Node.js**, **Express**, **MongoDB**;
-- 💻 Estou aprendendo como fazer APIs;
-- 🌱 Meus hobbies são agriculta e Geoprocessamento;
+<!-- - 👨🏽‍💻 Aprendendo e praticando; -->
+- 💻 À procura da minha primeira vaga na área de TI;
+- 🌱 Meus hobbies preferidos são agriculta e Geoprocessamento;
 - 💼 Em busca de novos conhecimentos para evoluir na minha carreira como desenvolvedor;
 - 💬 Vamos conversar? Pode ser sobre qualquer assunto;
 - 📫 **alexsmith7192@gmail.com**;

@@ -18,7 +18,8 @@ Olá, me chamo **Alex**, sou de Teresina - Piauí, Brasil e atualmente sou **Des
 
 <!-- - 👨🏽‍💻 Aprendendo e praticando; -->
 - 💻 À procura da minha primeira vaga na área de TI;
-- 🌱 Meus hobbies preferidos são agriculta e Geoprocessamento;
+- 💻 Estudando Java;
+- 🌱 Meus hobbies preferidos são agricultura e Geoprocessamento;
 - 💼 Em busca de novos conhecimentos para evoluir na minha carreira como desenvolvedor;
 - 💬 Vamos conversar? Pode ser sobre qualquer assunto;
 - 📫 **alexsmith7192@gmail.com**;
